@@ -3408,7 +3408,7 @@ Kakapachi by CaroLuz
 		color: #18171c;
 		padding: 13em 0 11em 0;
 		background-image: url("../../images/portada1.jpg");
-		background-size: cover;
+		background-size: auto;
 		background-repeat: no-repeat;
 		background-position: center;
 		text-align: center;
